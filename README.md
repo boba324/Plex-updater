@@ -11,4 +11,4 @@ I don't really intent to adjust the script much since it does what it should
 but feel free to let me know if you have found issues or errors.
 
 If you want one for the other distros let me know. I can add the ones that 
-people need
+people need.
